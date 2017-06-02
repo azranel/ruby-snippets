@@ -1,7 +1,7 @@
 {
   "name": "ruby-snippets",
   "main": "./lib/ruby-snippets",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Ruby snippets for non-rails way programming",
   "keywords": [
     "ruby",
