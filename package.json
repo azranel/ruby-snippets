@@ -1,0 +1,23 @@
+{
+  "name": "ruby-snippets",
+  "main": "./lib/ruby-snippets",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+    "ruby",
+    "snippets",
+    "rails",
+    "service",
+    "object"
+  ],
+  "activationCommands": {
+    "atom-workspace": "ruby-snippets:toggle"
+  },
+  "repository": "https://github.com/azranel/ruby-snippets",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
